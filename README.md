@@ -2,6 +2,8 @@
 
 Copia Flutter dell'app web [Media](https://github.com/Andreito08/Media): voti, medie a due decimali per materia, grafici e backup locale — con la stessa grafica "liquid glass".
 
+**Provala:** sito https://andreito08.github.io/MediaFlutter/ · APK Android nelle [Release](https://github.com/Andreito08/MediaFlutter/releases)
+
 ## Stato
 
 Prototipo funzionante per confronto con la versione web:
